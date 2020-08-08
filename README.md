@@ -5,8 +5,11 @@ Skills used and learned in this website:
 React
 Redux
 
+
 Handling AJAX requests (axios, fetch) using async/await
-Accessing a custom database (firebase)
+Routing with React
+Lazy Loading
+Accessing a database (firebase), sending and fetching data to the backend
 React Forms and Validation
 Authentication
 
